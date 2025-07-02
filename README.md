@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Josue Valdivia
 
-<!--
-**johnmichaelalberico96/johnmichaelalberico96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Web and App Developer focused on building fast, modern, and user-friendly digital experiences. I specialize in front-end and full-stack development with a strong emphasis on clean code and scalable design.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks:**
+- JavaScript / TypeScript
+- React / Next.js / Vue
+- Node.js / Express
+- HTML5 / CSS3 / Tailwind / SASS
+- Flutter / Dart
+- Python / Django (optional)
+
+**Tools & Platforms:**
+- Git & GitHub
+- Firebase / Supabase
+- MongoDB / PostgreSQL / MySQL
+- Docker / Vercel / Netlify
+- Figma / Adobe XD (UI/UX)
+
+## 📫 Connect with Me
+
+- 🌐 Phone: +44 7887185359
+- 📧 Email: [johnmichaelalberico96@outlook.com](mailto:johnmichaelalberico96@outlook.com)
+
+---
+
+_Always learning. Always building. Let’s collaborate!_
