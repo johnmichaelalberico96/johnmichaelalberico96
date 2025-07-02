@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Josue Valdivia
+👋 Hi, I'm Josue Valdivia
 
 I'm a passionate Web and App Developer focused on building fast, modern, and user-friendly digital experiences. I specialize in front-end and full-stack development with a strong emphasis on clean code and scalable design.
 
