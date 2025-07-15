@@ -1,4 +1,4 @@
-👋 Hi, I'm Josue Valdivia
+👋 Hi, I'm John Alberico
 
 I'm a passionate Web and App Developer focused on building fast, modern, and user-friendly digital experiences. I specialize in front-end and full-stack development with a strong emphasis on clean code and scalable design.
 
@@ -21,7 +21,6 @@ I'm a passionate Web and App Developer focused on building fast, modern, and use
 
 ## 📫 Connect with Me
 
-- 🌐 Phone: +44 7887185359
 - 📧 Email: [johnmichaelalberico96@outlook.com](mailto:johnmichaelalberico96@outlook.com)
 
 ---
